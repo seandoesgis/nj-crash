@@ -1,0 +1,6 @@
+pandas
+requests
+pyodbc
+python-dotenv
+sqlalchemy
+psycopg2

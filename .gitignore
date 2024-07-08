@@ -1,0 +1,7 @@
+extracted
+downloads
+venv
+.env
+nj_import_issue_report.txt
+nj_table_report.txt
+*.csv
